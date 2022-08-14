@@ -15,6 +15,14 @@ description:	       "I share insights about life in general"
 author:              "Str00pman"
 hide_related_posts:  true
 
+defaults:
+  # You can use the following to enable comments on all posts.
+  - scope:
+      type:            posts
+    values:
+      # https://applause-button.com/
+      applause_button:       true
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
