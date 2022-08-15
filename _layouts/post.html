@@ -27,15 +27,9 @@ layout: default
     {% include disqus.html %}
   {% endif %}
   
-  <head>
-    <!-- add the button style & script -->
-    <link rel="stylesheet" href="applause-button.css" />
-    <script src="applause-button.js"></script>
-  </head>
-  <body>
-    <!-- add the button! -->
-    <applause-button style="width: 58px; height: 58px;"/>
-  </body>  
+  <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
+  <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+  <applause-button style="width: 40px; height: 40px;" url="{{ site.url }}{{ page.url }}" />
 
 </div>
 
