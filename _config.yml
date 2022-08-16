@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Foo"
+title:		           "Sharing Knowledge"
 description:	       "I share insights about life in general"
 author:              "Str00pman"
 hide_related_posts:  true
