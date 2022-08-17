@@ -15,6 +15,11 @@ description:	       "I share insights about life in general"
 author:              "Str00pman"
 hide_related_posts:  true
 
+
+# for drawings gallerys
+imagesurl: "/drawings/images"
+thumbsurl: "/drawings/thumbs/"
+
 defaults:
   # You can use the following to enable comments on all posts.
   - scope:
