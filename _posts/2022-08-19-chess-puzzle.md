@@ -13,5 +13,5 @@ I've made a puzzle just for you: from the position above, **white to play and wi
 
 --
 
-Thanks to *lichess.org* for the great website, and *stockfish* which helped me ensuring the puzzle was good.
+Thanks to *lichess.org* for the great website, and *stockfish* which helped me validate this puzzle.
 
