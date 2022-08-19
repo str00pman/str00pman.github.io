@@ -11,7 +11,7 @@ Hello dear chess lovers,
 
 I've made a puzzle just for you: from the position above, **white to play and win**.
 
-It is my first puzzle and, honestly, the most beautiful one. Tell me in the comment if you found the solution and what's your ELO rating.
+It is my first puzzle and, honestly, the most beautiful one. Tell me in the comments if you found the solution and what's your ELO rating.
 
 --
 
